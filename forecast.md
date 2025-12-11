@@ -6,4 +6,4 @@ Cloudy and rainy with snow
 
 ## Tomorrow
 
-Still cloudy
+Still cloudy and probably rainy
